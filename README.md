@@ -25,7 +25,7 @@ _________________________
 Running the app:
 - Install the app.
 - Extract the file.
-- Open up the Assetto-Corsa-Tire-Temperature-App folder.
+- Open up the Assetto-Corsa-Tire-Temperature-App-main folder.
 - Find the folder.
 - Find your AC directory.
 - Find the apps folders.
@@ -33,7 +33,7 @@ Running the app:
 Another way:
 - Install the app.
 - Extract the file (if you want to).
-- Open up the Assetto-Corsa-Tire-Temperature-App folder.
+- Open up the Assetto-Corsa-Tire-Temperature-App-main folder.
 - Find the Tire Temp folder.
 - Drag and drop the file into Content Manager (make sure that it is opened).
 - Install in there.
