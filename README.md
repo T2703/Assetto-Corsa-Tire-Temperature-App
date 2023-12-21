@@ -19,8 +19,8 @@ Features:
 
 Please do note that the application does work vanilla cars and some other modded cars meaning that if the tire itself is not from the vanilla game, the color feature won't work I have tried finding ways to make it work but was unsucessful. 
 
-Video Demo: (working on that)
-
+Video Demo: 
+https://youtu.be/IN4K1zJ0lD0
 _________________________
 Running the app:
 - Install the app.
